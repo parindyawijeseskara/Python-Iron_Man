@@ -14,7 +14,7 @@ canvas3 = [[(-60, -220), (-80, -240), (-110, -220), (-120, -250), (-90, -280), (
            (0, -220)]]
 
 turtle.hideturtle()
-turtle.bgcolor('black') 
+turtle.bgcolor('black')   
 turtle.setup(500, 600)
 turtle.title("IAM IRON MAN")
 canvas1Goto = (0, 120)
